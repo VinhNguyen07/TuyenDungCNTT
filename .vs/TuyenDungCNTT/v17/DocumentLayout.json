@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\lang\\af.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\lang\\af.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\contents.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\contents.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\ckeditor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\build-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\build-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\assets\\plugins\\ckeditor\\adapters\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\assets\\plugins\\ckeditor\\adapters\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\areas\\nhatuyendung\\views\\shared\\_layoutemployer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\areas\\nhatuyendung\\views\\shared\\_layoutemployer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|c:\\users\\thinkking\\downloads\\source code website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt\\tuyendungcntt\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "af.js",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\lang\\af.js",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\lang\\af.js",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\lang\\af.js*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\lang\\af.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T14:17:57.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contents.css",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\contents.css",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\contents.css",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\contents.css*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\contents.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-30T14:17:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.js",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\config.js",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\config.js",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\config.js*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\config.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T14:17:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ckeditor.js",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\ckeditor.js",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\ckeditor.js",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\ckeditor.js*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\ckeditor.js*",
+              "ViewState": "AgIAAC8CAAAAAAAAAIAwwD0CAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T14:17:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "build-config.js",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\build-config.js",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\build-config.js",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\build-config.js*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\build-config.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T14:17:22.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js*",
+              "RelativeToolTip": "TuyenDungCNTT\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-30T14:17:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutEmployer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\NhaTuyenDung\\Views\\Shared\\_LayoutEmployer.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Areas\\NhaTuyenDung\\Views\\Shared\\_LayoutEmployer.cshtml",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\NhaTuyenDung\\Views\\Shared\\_LayoutEmployer.cshtml*",
+              "RelativeToolTip": "TuyenDungCNTT\\Areas\\NhaTuyenDung\\Views\\Shared\\_LayoutEmployer.cshtml*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAWwJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:17:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "TuyenDungCNTT\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAWwJ8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:16:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Login\\Index.cshtml*",
+              "RelativeToolTip": "TuyenDungCNTT\\Areas\\Admin\\Views\\Login\\Index.cshtml*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAWwE8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T14:16:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ThinkKING\\Downloads\\Source code website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT\\TuyenDungCNTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T05:37:24.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
